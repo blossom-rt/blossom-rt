@@ -1,4 +1,4 @@
-## Hi there 👋
+## 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。
 
 <!--
 **blossom-rt/blossom-rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
