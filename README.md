@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=472&height=77&vCenter=true&center=true&color=58A6FF&lines=Welcome+to+blossom-rt's+GitHub+profile!;Programming+is+an+art+form.;Don't+regret+the+past.;Here's+to+the+ones+that+we+got." alt="Typing SVG" />
 </p>
 
-
 ## 🧑‍🎓 About Me
 - I am a junior undergraduate majoring in Data Science and Big Data Technology at the School of Mathematics, Physics and Artificial Intelligence, China University of Petroleum‑Beijing at Karamay.
 - I pursue personal freedom. I act on my own volition, refuse external constraints, and break free from societal presets.
@@ -20,12 +19,13 @@
 
 ## 🛠️ Tech Stack
 **Programming Languages**: C++, Python  
-**Development Frameworks**: Spring Boot, Vue, .NET
+**Development Frameworks**: Spring Boot, Vue 3, Vite, .NET  
+**Machine Learning & Data Science**: PyTorch, Scikit‑learn, NumPy, Pandas, Matplotlib, Seaborn  
+**Tools & DevOps**: Git, VS Code, Linux (Ubuntu), Conda
 
 <p align="left">
 <img height="170" src="https://streak-stats.demolab.com/?user=blossom-rt&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 🎯 Current Focus
 - Consolidating theoretical foundations in mathematics, statistics and machine learning
