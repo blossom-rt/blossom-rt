@@ -5,7 +5,7 @@
 </p>
 
 ## 🧑‍🎓 About Me
-- I am a junior undergraduate majoring in Data Science and Big Data Technology at the School of Mathematics, Physics and Artificial Intelligence, China University of Petroleum‑Beijing at Karamay.
+- I am a rising junior undergraduate majoring in Data Science and Big Data Technology at the School of Mathematics, Physics and Artificial Intelligence, China University of Petroleum‑Beijing at Karamay.
 - I pursue personal freedom. I act on my own volition, refuse external constraints, and break free from societal presets.
 - As an independent researcher, I aim for the essence of things rather than treating papers as my primary goal.
 - I enjoy thinking, exploring causal reasoning and philosophical speculation.
@@ -18,13 +18,15 @@
 - Epistemology and philosophical inquiry
 
 ## 🛠️ Tech Stack
-**Programming Languages**: C++, Python  
+**Programming Languages**: C/C++, Python  
 **Development Frameworks**: Spring Boot, Vue 3, Vite, .NET  
 **Machine Learning & Data Science**: PyTorch, Scikit‑learn, NumPy, Pandas, Matplotlib, Seaborn  
 **Tools & DevOps**: Git, VS Code, Linux (Ubuntu), Conda
 
 <p align="left">
-<img height="170" src="https://streak-stats.demolab.com/?user=blossom-rt&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=blossom-rt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight&ring=7AA2F7&fire=7AA2F7" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=blossom-rt&color=7AA2F7&style=flat-square" />
 </p>
 
 ## 🎯 Current Focus
