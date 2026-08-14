@@ -24,9 +24,8 @@
 **Tools & DevOps**: Git, VS Code, Linux (Ubuntu), Conda
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=blossom-rt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight&ring=7AA2F7&fire=7AA2F7" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=blossom-rt&color=7AA2F7&style=flat-square" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blossom-rt&theme=tokyonight&hide_border=true&bg_color=none&line=7AA2F7&point=7AA2F7" />
+  <img src="https://komarev.com/ghpvc/?username=blossom-rt&color=7AA2F7&style=for-the-badge" />
 </p>
 
 ## 🎯 Current Focus
