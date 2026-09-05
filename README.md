@@ -5,7 +5,7 @@
 </p>
 
 ## 🧑‍🎓 About Me
-- I am a rising junior undergraduate majoring in Data Science and Big Data Technology at the School of Mathematics, Physics and Artificial Intelligence, China University of Petroleum‑Beijing at Karamay.
+- I am a junior undergraduate majoring in Data Science and Big Data Technology at the School of Mathematics, Physics and Artificial Intelligence, China University of Petroleum‑Beijing at Karamay.
 - I pursue personal freedom. I act on my own volition, refuse external constraints, and break free from societal presets.
 - As an independent researcher, I aim for the essence of things rather than treating papers as my primary goal.
 - I enjoy thinking, exploring causal reasoning and philosophical speculation.
