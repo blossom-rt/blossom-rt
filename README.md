@@ -24,7 +24,6 @@
 **Tools & DevOps**: Git, VS Code, Linux (Ubuntu), Conda
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blossom-rt&theme=tokyonight&hide_border=true&bg_color=none&line=7AA2F7&point=7AA2F7" />
   <img src="https://komarev.com/ghpvc/?username=blossom-rt&color=7AA2F7&style=for-the-badge" />
 </p>
 
