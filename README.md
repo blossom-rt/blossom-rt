@@ -23,10 +23,6 @@
 **Machine Learning & Data Science**: PyTorch, Scikit‑learn, NumPy, Pandas, Matplotlib, Seaborn  
 **Tools & DevOps**: Git, VS Code, Linux (Ubuntu), Conda
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=blossom-rt&color=7AA2F7&style=for-the-badge" />
-</p>
-
 ## 🎯 Current Focus
 - Consolidating theoretical foundations in mathematics, statistics and machine learning
 - Implementing and refining end‑to‑end full‑stack projects
