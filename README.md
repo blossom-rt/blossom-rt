@@ -1,7 +1,5 @@
 > 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。
 
-[简体中文](README.zh-CN.md) | English
-
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=472&height=77&vCenter=true&center=true&color=58A6FF&lines=Welcome+to+blossom-rt's+GitHub+profile!;Programming+is+an+art+form.;Don't+regret+the+past.;Here's+to+the+ones+that+we+got." alt="Typing SVG" />
 </p>
@@ -32,7 +30,7 @@
 
 ## 📂 Featured Projects
 - [oil‑gas‑pipeline‑corrosion‑detection‑ml](https://github.com/blossom-rt/oil-gas-pipeline-corrosion-detection-ml): Machine‑learning‑based corrosion detection for oil‑gas pipelines
-- [kg‑intelligent‑tutoring‑system](https://github.com/blossom-rt/kg-intelligent-tutoring-system): Knowledge‑graph‑driven intelligent tutoring system
+- [kg‑intelligent‑tutoring‑system](https://github.com/blossom-rt/kg-intelligent-tutoring-system): Knowledge‑graph-driven intelligent tutoring system
 
 ## 📫 Contact
 - Email: tuzi@st.cupk.edu.cn
