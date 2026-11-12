@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=472&height=77&vCenter=true&center=true&color=58A6FF&lines=Welcome+to+blossom-rt's+GitHub+profile!;Programming+is+an+art+form.;Don't+regret+the+past.;Here's+to+the+ones+that+we+got." alt="Typing SVG" />
 </p>
 
+[简体中文](README.zh-CN.md) | English
+
 ## 🧑‍🎓 About Me
 - I am a junior undergraduate majoring in Data Science and Big Data Technology at the School of Mathematics, Physics and Artificial Intelligence, China University of Petroleum‑Beijing at Karamay.
 - I pursue personal freedom. I act on my own volition, refuse external constraints, and break free from societal presets.
@@ -19,9 +21,9 @@
 
 ## 🛠️ Tech Stack
 **Programming Languages**: C/C++, Python  
-**Development Frameworks**: Spring Boot, Vue 3, Vite, .NET  
+**Development Frameworks**: Spring Boot, Vue 3, Vite, Flask, .NET  
 **Machine Learning & Data Science**: PyTorch, Scikit‑learn, NumPy, Pandas, Matplotlib, Seaborn  
-**Tools & DevOps**: Git, VS Code, Linux (Ubuntu), Conda
+**Tools & DevOps**: Git, VS Code, Zed, DeepSeek Harness, Linux (Ubuntu), Conda
 
 ## 🎯 Current Focus
 - Consolidating theoretical foundations in mathematics, statistics and machine learning
@@ -34,6 +36,6 @@
 
 ## 📫 Contact
 - Email: tuzi@st.cupk.edu.cn
-- Personal Website: [blossom‑rt.github.io](https://blossom-rt.github.io/) *(Under construction)*
+- Personal Website: [blossom‑rt.github.io](https://blossom-rt.github.io/) *(Under construction, expected to be completed by the end of 2026.)*
 
 > Feel free to reach out for academic discussion or potential collaboration.
