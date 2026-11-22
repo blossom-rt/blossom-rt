@@ -33,9 +33,10 @@
 ## 📂 Featured Projects
 - [oil‑gas‑pipeline‑corrosion‑detection‑ml](https://github.com/blossom-rt/oil-gas-pipeline-corrosion-detection-ml): Machine‑learning‑based corrosion detection for oil‑gas pipelines
 - [kg‑intelligent‑tutoring‑system](https://github.com/blossom-rt/kg-intelligent-tutoring-system): Knowledge‑graph-driven intelligent tutoring system
+- [amazon-games-mining](https://github.com/blossom-rt/amazon-games-mining): End-to-end data mining on Amazon Video Games reviews, covering data governance, association rules, rating prediction, product clustering, interpretability, and an interactive dashboard
 
 ## 📫 Contact
-- Email: tuzi@st.cupk.edu.cn
+- Email: blossom.rabbit22@gmail.com
 - Personal Website: [blossom‑rt.github.io](https://blossom-rt.github.io/) *(Under construction, expected to be completed by the end of 2026.)*
 
 > Feel free to reach out for academic discussion or potential collaboration.
