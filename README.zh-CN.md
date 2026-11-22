@@ -9,7 +9,7 @@
 ## 🧑‍🎓 关于我
 - 中国石油大学（北京）克拉玛依校区 数理与人工智能学院 数据科学与大数据技术专业 大三本科生
 - 追求自由，遵从本心，多做自己认为有意义的事。
-- 探究本质，进行深入的、不以论文为目的研究。
+- 探究本质，进行深入纯粹的、不以论文为目的的研究。
 - 喜欢深入思考哲学问题
 
 ## 📚 研究与兴趣
@@ -33,9 +33,10 @@
 ## 📂 代表项目
 - [oil-gas-pipeline-corrosion-detection-ml](https://github.com/blossom-rt/oil-gas-pipeline-corrosion-detection-ml)：基于机器学习的油气管道腐蚀检测
 - [kg-intelligent-tutoring-system](https://github.com/blossom-rt/kg-intelligent-tutoring-system)：知识图谱驱动的智能导学系统
+- [amazon-games-mining](https://github.com/blossom-rt/amazon-games-mining)：Amazon电子游戏评论的端到端数据挖掘项目，涵盖数据治理、关联规则、评分预测、商品聚类、可解释性与交互式看板
 
 ## 📫 联系方式
-- 邮箱：tuzi@st.cupk.edu.cn
+- 邮箱：blossom.rabbit22@gmail.com
 - 个人网站：[blossom-rt.github.io](https://blossom-rt.github.io/)（建设中，预计2026年底完成）
 
 > 欢迎就学术交流或潜在合作联系我。
